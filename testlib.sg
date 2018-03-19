@@ -1,0 +1,5 @@
+// This is the call defined
+def call(Closure c) {
+  println "lib";
+}
+
